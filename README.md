@@ -11,11 +11,8 @@ Argument-Using body language can convey information. It is possible to break thr
 Body language can replace language and express complex emotions.
 
 Statement-Body language is medium for conveying message.
-
 A lot of message collect to become knowledge.
-
 The process can be returned.
-
 This can explain the connection between body language and knowledge.
 
 
