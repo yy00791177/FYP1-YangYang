@@ -21,3 +21,13 @@ This can explain the connection between body language and knowledge.
 
 ### Justification
 Case Studies
+![1112703206 yangyan 3](https://user-images.githubusercontent.com/34509330/35630309-0e1036c0-06dc-11e8-98d5-e5ed8e5d21f8.png)
+https://www.youtube.com/watch?v=tlRKDDU4z5Y
+
+
+![1112703206 yangyan 4](https://user-images.githubusercontent.com/34509330/35630405-4c061f1c-06dc-11e8-9cb1-cf0cd42b15dc.png)
+https://www.youtube.com/watch?v=VCzMRRyDt4Q
+
+
+![1112703206 yangyan 5](https://user-images.githubusercontent.com/34509330/35630503-8f621ed2-06dc-11e8-8b71-59f74bc9f813.png)
+https://www.youtube.com/watch?v=nYHGZszH-qI
