@@ -17,3 +17,7 @@ This can explain the connection between body language and knowledge.
 
 ## Draft Sketches
 
+![fyp week6](https://user-images.githubusercontent.com/34509330/35629925-d9cc86a8-06da-11e8-97b6-5c7852ad90d1.png)
+
+### Justification
+Case Studies
