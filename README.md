@@ -15,6 +15,16 @@ A lot of message collect to become knowledge.
 The process can be returned.
 This can explain the connection between body language and knowledge.
 
+## Background Resrearch
+
+Knowledge is a familiarity, awareness, or understanding of someone or something, such as facts, information, descriptions, or skills, which is acquired through experience or education by perceiving, discovering, or learning.
+
+Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning; while knowledge is also said to be related to the capacity of acknowledgement in human beings.
+Karl Popper classifies human knowledge into seven parts： Common Sense、Experiential Knowledge、Myths and legends 、Scientific Knowledge、 Philosophy、Art Knowledge 、Religion. (Objective Knowledge: An Evolutionary Approach, 1972, Rev. ed., 1979, ISBN 0-19-875024-2 )
+
+Common sense is the basic knowledge that a sane adult in a society should have. Common sense is sound practical judgment concerning everyday matters, or a basic ability to perceive, understand, and judge that is shared by nearly all people. The first type of common sense, good sense, can be described as "the knack for seeing things as they are, and doing things as they ought to be done." The second type is sometimes described as folk wisdom, "signifying unreflective knowledge not reliant on specialized training or deliberative thought." The two types are intertwined, as the person who has common sense is in touch with common-sense ideas, which emerge from the lived experiences of those commonsensical enough to perceive them.
+
+
 ## Draft Sketches
 
 ![fyp week6](https://user-images.githubusercontent.com/34509330/35629925-d9cc86a8-06da-11e8-97b6-5c7852ad90d1.png)
