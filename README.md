@@ -22,7 +22,7 @@ Knowledge is a familiarity, awareness, or understanding of someone or something,
 Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning; while knowledge is also said to be related to the capacity of acknowledgement in human beings.
 Karl Popper classifies human knowledge into seven parts： Common Sense、Experiential Knowledge、Myths and legends 、Scientific Knowledge、 Philosophy、Art Knowledge 、Religion. (Objective Knowledge: An Evolutionary Approach, 1972, Rev. ed., 1979, ISBN 0-19-875024-2 )
 
-Common sense is the basic knowledge that a sane adult in a society should have. Common sense is sound practical judgment concerning everyday matters, or a basic ability to perceive, understand, and judge that is shared by nearly all people. The first type of common sense, good sense, can be described as "the knack for seeing things as they are, and doing things as they ought to be done." The second type is sometimes described as folk wisdom, "signifying unreflective knowledge not reliant on specialized training or deliberative thought." The two types are intertwined, as the person who has common sense is in touch with common-sense ideas, which emerge from the lived experiences of those commonsensical enough to perceive them.
+Body language, When we interact with others, we continuously give and receive wordless signals. All of our nonverbal behaviors—the gestures we make, the way we sit, how fast or how loud we talk, how close we stand, how much eye contact we make—send strong messages. These messages don't stop when you stop speaking either. Even when you're silent, you're still communicating nonverbally.
 
 
 ## Draft Sketches
