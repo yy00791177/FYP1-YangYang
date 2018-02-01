@@ -35,8 +35,6 @@ https://www.youtube.com/watch?v=nYHGZszH-qI
 #### Installation Planning
 Floorplan & Interaction Flow
 
-![1112703206 yangyan](https://user-images.githubusercontent.com/34509330/35630972-adc04e3e-06dd-11e8-9552-826edb898cdf.png)
-
 ![1112703206 yangyan 1](https://user-images.githubusercontent.com/34509330/35630999-ba8d78ee-06dd-11e8-8e6e-1a80b27941a8.png)
 
-![1112703206 yangyan 2](https://user-images.githubusercontent.com/34509330/35631027-ca0a7100-06dd-11e8-8c1a-c10f66b16d0f.png)
+
