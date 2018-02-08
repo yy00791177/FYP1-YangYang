@@ -50,11 +50,11 @@ Floorplan & Interaction Flow
 ## Equipments & Software
 
 #### Equipment : 
-<br>Kinect
+Kinect
 <br>Project 
 <br>Double-sided screen
 <br>Aluminium alloy scaffold
 
 
 #### Software
-<br>Unity3D
+Unity3D
