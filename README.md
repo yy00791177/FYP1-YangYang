@@ -51,7 +51,7 @@ Floorplan & Interaction Flow
 
 #### Equipment : 
 Kinect
-<br>Project 
+<br>Projector 
 <br>Double-sided screen
 <br>Aluminium alloy scaffold
 
