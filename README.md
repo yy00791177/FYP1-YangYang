@@ -47,4 +47,14 @@ Floorplan & Interaction Flow
 
 ![1112703206 yangyan 1](https://user-images.githubusercontent.com/34509330/35630999-ba8d78ee-06dd-11e8-8e6e-1a80b27941a8.png)
 
+##Equipments & Software
 
+Equipment : 
+Kinect
+Project 
+Double-sided screen
+Aluminium alloy scaffold
+
+
+Software
+Unity3D
