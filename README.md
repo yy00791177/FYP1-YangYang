@@ -29,7 +29,7 @@ Body language, When we interact with others, we continuously give and receive wo
 
 ![fyp week6](https://user-images.githubusercontent.com/34509330/35629925-d9cc86a8-06da-11e8-97b6-5c7852ad90d1.png)
 
-### Justification
+## Justification
 Case Studies
 ![1112703206 yangyan 3](https://user-images.githubusercontent.com/34509330/35630309-0e1036c0-06dc-11e8-98d5-e5ed8e5d21f8.png)
 https://www.youtube.com/watch?v=tlRKDDU4z5Y
@@ -42,19 +42,19 @@ https://www.youtube.com/watch?v=VCzMRRyDt4Q
 ![1112703206 yangyan 5](https://user-images.githubusercontent.com/34509330/35630503-8f621ed2-06dc-11e8-8b71-59f74bc9f813.png)
 https://www.youtube.com/watch?v=nYHGZszH-qI
 
-#### Installation Planning
+## Installation Planning
 Floorplan & Interaction Flow
 
 ![1112703206 yangyan 1](https://user-images.githubusercontent.com/34509330/35630999-ba8d78ee-06dd-11e8-8e6e-1a80b27941a8.png)
 
-#####Equipments & Software
+## Equipments & Software
 
-Equipment : 
-Kinect
-Project 
-Double-sided screen
-Aluminium alloy scaffold
+#### Equipment : 
+<br>Kinect
+<br>Project 
+<br>Double-sided screen
+<br>Aluminium alloy scaffold
 
 
-Software
-Unity3D
+#### Software
+<br>Unity3D
