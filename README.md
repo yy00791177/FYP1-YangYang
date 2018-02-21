@@ -58,4 +58,4 @@ Kinect
 
 #### Software
 Unity3D
-Adobe <br>After Effects
+<br>Adobe After Effects
